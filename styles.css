@@ -195,8 +195,7 @@ a{
     /* width: 14vw;
     height: 42vh; */
     width: 18vw;
-/*     height: 40vh; */
-    height: 26vh;
+    height: 40vh;
 }
 
 @keyframes scaleImage {
@@ -917,7 +916,8 @@ footer{
     }
     .user-image img{
         width: 60vw;
-        height: 45vh;
+/*         height: 45vh; */
+        height: 26vh;
         border-radius: 50%;
     }
     
